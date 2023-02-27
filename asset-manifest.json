@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.184f7a47.css",
+    "main.js": "/static/js/main.6119880d.js",
+    "static/js/787.f055211e.chunk.js": "/static/js/787.f055211e.chunk.js",
+    "static/media/bg-product.jpg": "/static/media/bg-product.64df6f405733aee1fe05.jpg",
+    "static/media/cta-bg.jpg": "/static/media/cta-bg.314069eaf3191d75946a.jpg",
+    "index.html": "/index.html",
+    "main.184f7a47.css.map": "/static/css/main.184f7a47.css.map",
+    "main.6119880d.js.map": "/static/js/main.6119880d.js.map",
+    "787.f055211e.chunk.js.map": "/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.184f7a47.css",
+    "static/js/main.6119880d.js"
+  ]
+}
